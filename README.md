@@ -7,5 +7,5 @@ This is a project which uses python , tensorflow and opencv to perform facial de
 3.Matplotlib
 4.Tensorflow
 5.Opencv
-### The neural network used 
+### The neural network used in this project
 Siamese Neural Network
